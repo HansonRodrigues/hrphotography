@@ -12,11 +12,11 @@ Services:
 - Videography
 - Cinematic Highlights
 - Digital Albums
+- Live for All Events
 
 Events:
 - Weddings
 - Roce
-- Mehendi
 - Engagements
 - First Holy Communion
 - Birthdays
